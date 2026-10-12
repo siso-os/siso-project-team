@@ -18,6 +18,7 @@
 </p>
 
 <!-- /siso-os:header -->
+
 **A project team in a box: one Agent Zero, autonomous owners, disposable arms, one shared
 browser, one task spine, and every word the human said — repackaged so any new SISO project
 gets the same team on day one, and every improvement sticks to this repo.**
